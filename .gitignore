@@ -1,0 +1,28 @@
+# Env and secrets
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Chroma DB (local vector store)
+chroma_db/
+
+# Temp / local
+temp_pdf_file.pdf
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

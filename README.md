@@ -107,7 +107,7 @@ flowchart LR
 | `GEMINI_API_KEY`         | —                     | Google Gemini API key (when using Gemini)        |
 | `GOOGLE_API_KEY`         | —                     | Alternative name for Gemini key                  |
 | `GEMINI_EMBEDDING_MODEL` | `gemini-embedding-001`| Gemini embedding model                           |
-| `GEMINI_CHAT_MODEL`      | `gemini-1.5-flash`    | Gemini chat model                                |
+| `GEMINI_CHAT_MODEL`      | `gemini-2.5-flash`    | Gemini chat model                                |
 | `LLM_PROVIDER`           | `openai`              | `openai` or `gemini`                             |
 | `CHROMA_PERSIST_DIR`     | `./chroma_db`         | Directory for Chroma persistence                 |
 
